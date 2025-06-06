@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Esports, right now in comparison to traditional sports stats are far less representative of how good a player is in many ways because they are more complex on a ruleset level. 
